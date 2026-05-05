@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.103.2.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777142744767
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777145245526
+  login: 1777144720182
+money: '500'
+last-account-name: Aldox
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1445.313066464281
+  y: 14.0
+  z: 101.69999998807907
+  yaw: 163.1286163330078
+  pitch: 41.36617660522461
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1445.313066464281
+  y: 14.0
+  z: 101.69999998807907
+  yaw: 163.1286163330078
+  pitch: 41.36617660522461

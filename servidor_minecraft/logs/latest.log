@@ -1,0 +1,277 @@
+[00:05:59] [Netty Epoll IO #1/INFO]: Disconnecting emi4553 for sending keepalive response (13841202) out-of-order!
+[00:05:59] [Server thread/INFO]: emi4553 lost connection: Timed out
+[00:05:59] [Server thread/INFO]: emi4553 left the game
+[00:06:40] [User Authenticator #6/INFO]: UUID of player emi4553 is cd1c0852-84fc-3032-8ac6-d3140c8232a7
+[00:07:18] [Server thread/INFO]: emi4553 joined the game
+[00:07:18] [Server thread/INFO]: emi4553[/127.143.123.243:52547] logged in with entity id 21000 at ([world]431371.0053500718, 28.0, 431479.71195528965)
+[00:07:18] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user emi4553 has successfully logged in.
+[00:08:16] [Netty Epoll IO #0/WARN]: [ac.grim.grimac.shaded.com.github.retrooper.packetevents.PacketEventsAPI] PacketEvents caught an unhandled exception while calling your listener.
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.pipeline()" because "channel" is null
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.io.github.retrooper.packetevents.netty.channel.ChannelOperatorModernImpl.getPipeline(ChannelOperatorModernImpl.java:85) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.com.github.retrooper.packetevents.netty.channel.ChannelHelper.getPipeline(ChannelHelper.java:85) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.com.github.retrooper.packetevents.manager.protocol.ProtocolManager.getUser(ProtocolManager.java:151) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.platform.bukkit.player.BukkitPlatformPlayer.<init>(BukkitPlatformPlayer.java:49) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.platform.bukkit.player.BukkitPlatformPlayerFactory.createPlatformPlayer(BukkitPlatformPlayerFactory.java:30) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.platform.bukkit.player.BukkitPlatformPlayerFactory.createPlatformPlayer(BukkitPlatformPlayerFactory.java:16) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.platform.api.player.AbstractPlatformPlayerFactory.getFromUUID(AbstractPlatformPlayerFactory.java:30) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.utils.anticheat.PlayerDataManager.onDisconnect(PlayerDataManager.java:91) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.events.packets.PacketPlayerJoinQuit.onUserDisconnect(PacketPlayerJoinQuit.java:61) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.UserDisconnectEvent.call(UserDisconnectEvent.java:40) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:85) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:103) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.com.github.retrooper.packetevents.event.EventManager.callEvent(EventManager.java:67) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.com.github.retrooper.packetevents.util.PacketEventsImplHelper.handleDisconnection(PacketEventsImplHelper.java:135) ~[?:?]
+	at grimac-bukkit-2.3.73.jar//ac.grim.grimac.shaded.io.github.retrooper.packetevents.injector.connection.ServerConnectionInitializer.lambda$initChannel$0(ServerConnectionInitializer.java:78) ~[?:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:604) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners0(DefaultPromise.java:597) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:573) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:506) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:650) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:639) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:119) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.AbstractChannel$CloseFuture.setClosed(AbstractChannel.java:1052) ~[netty-transport-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.doClose0(AbstractChannel.java:626) ~[netty-transport-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.close(AbstractChannel.java:602) ~[netty-transport-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.close(AbstractChannel.java:492) ~[netty-transport-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.shutdownInput(AbstractEpollChannel.java:563) ~[netty-transport-classes-epoll-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:817) ~[netty-transport-classes-epoll-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.handle(AbstractEpollChannel.java:482) ~[netty-transport-classes-epoll-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.epoll.EpollIoHandler$DefaultEpollIoRegistration.handle(EpollIoHandler.java:317) ~[netty-transport-classes-epoll-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.epoll.EpollIoHandler.processReady(EpollIoHandler.java:515) ~[netty-transport-classes-epoll-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:460) ~[netty-transport-classes-epoll-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225) ~[netty-transport-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196) ~[netty-transport-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.2.7.Final.jar:4.2.7.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:08:16] [Server thread/INFO]: LITTLE_GHOTS lost connection: Disconnected
+[00:08:16] [Server thread/INFO]: LITTLE_GHOTS left the game
+[00:08:21] [User Authenticator #7/INFO]: UUID of player LITTLE_GHOTS is b32bcf28-e27e-33e7-9c0e-dc1a5e5b58be
+[00:08:25] [Server thread/INFO]: LITTLE_GHOTS joined the game
+[00:08:25] [Server thread/INFO]: LITTLE_GHOTS[/127.228.37.240:53289] logged in with entity id 21496 at ([world]-1638.5850060777605, 98.0, 1283.300000011921)
+[00:08:26] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user LITTLE_GHOTS has successfully logged in.
+[00:10:05] [Server thread/INFO]: LITTLE_GHOTS lost connection: Disconnected
+[00:10:05] [Server thread/INFO]: LITTLE_GHOTS left the game
+[00:14:17] [Server thread/INFO]: Akukis issued server command: /vanish
+[00:14:19] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:14:21] [Server thread/INFO]: Akukis issued server command: /vanish
+[00:15:39] [Server thread/INFO]: Akukis issued server command: /locate structure minecraft:mansion
+[00:15:40] [Server thread/INFO]: Locating element minecraft:mansion took 917 ms
+[00:15:50] [Server thread/INFO]: Akukis issued server command: /tp @s 427856 ~ 434064
+[00:16:02] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:16:28] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:16:32] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:18:46] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:24:40] [User Authenticator #8/INFO]: UUID of player xhikoenfasis17 is d491dd0e-5e2f-3863-8d29-ad4488976fa3
+[00:24:47] [Server thread/INFO]: xhikoenfasis17 joined the game
+[00:24:47] [Server thread/INFO]: xhikoenfasis17[/127.222.57.25:40535] logged in with entity id 24105 at ([world]-1471.88739454908, 70.0, 516.9411444694367)
+[00:24:47] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user xhikoenfasis17 has successfully logged in.
+[00:25:06] [Server thread/INFO]: xhikoenfasis17 fell from a high place
+[00:25:26] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17
+[00:25:46] [Server thread/INFO]: xhikoenfasis17 tried to swim in lava
+[00:25:55] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:25:57] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17
+[00:26:14] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17
+[00:26:36] [Server thread/INFO]: xhikoenfasis17 was slain by Akukis
+[00:26:50] [Async Chat Thread - #20/INFO]:  xhikoenfasis17: akukis dante kabron
+[00:27:09] [Server thread/INFO]: emi4553 issued server command: /spawn
+[00:27:10] [Async Chat Thread - #20/INFO]:  xhikoenfasis17: dame mejor op jajaja
+[00:27:19] [Server thread/INFO]: Akukis issued server command: /heal
+[00:27:28] [User Authenticator #9/INFO]: UUID of player LITTLE_GHOTS is b32bcf28-e27e-33e7-9c0e-dc1a5e5b58be
+[00:27:33] [Server thread/INFO]: LITTLE_GHOTS joined the game
+[00:27:33] [Server thread/INFO]: LITTLE_GHOTS[/127.228.37.240:47935] logged in with entity id 25212 at ([world]-1682.699999988079, 83.0, 1441.699999988079)
+[00:27:34] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user LITTLE_GHOTS has successfully logged in.
+[00:27:36] [Netty Epoll IO #2/INFO]: Grim » xhikoenfasis17 failed FastBreak (x10) diff=247.0ms, balance=1057.0ms, type=dirt
+[00:27:38] [Async Chat Thread - #20/INFO]:  [SupremeKukis] emi4553: akukis dice dame van ozi
+[00:27:46] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:27:46] [Server thread/INFO]: LITTLE_GHOTS issued server command: /sp
+[00:27:46] [Server thread/INFO]: [Essentials] LITTLE_GHOTS was denied access to command.
+[00:27:48] [Server thread/INFO]: LITTLE_GHOTS issued server command: /sethomep
+[00:27:50] [Server thread/INFO]: LITTLE_GHOTS issued server command: /spawn
+[00:28:14] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco take xhikoenfasis17 500
+[00:28:14] [Server thread/INFO]: $500 taken from xhikoenfasis17 account. New balance: $0
+[00:28:14] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give LITTLE_GHOTS 500
+[00:28:14] [Server thread/INFO]: $500 added to [VipKukis] LITTLE_GHOTS account. New balance: $500
+[00:28:14] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:28:43] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:28:51] [Async Chat Thread - #22/INFO]:  Akukis: pobrecio :v
+[00:29:11] [Server thread/INFO]: xhikoenfasis17 was slain by emi4553 using [espada divina]
+[00:29:29] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:29:37] [Server thread/INFO]: xhikoenfasis17 was slain by Akukis
+[00:29:42] [Server thread/INFO]: xhikoenfasis17 was slain by emi4553 using [espada divina]
+[00:29:54] [Server thread/INFO]: Akukis issued server command: /tp LITTLE_GHOTS
+[00:30:05] [Server thread/INFO]: LITTLE_GHOTS issued server command: /spawn
+[00:30:09] [Server thread/INFO]: xhikoenfasis17 tried to swim in lava
+[00:30:25] [Netty Epoll IO #2/INFO]: Grim » xhikoenfasis17 failed Hitboxes (x6) type=player
+[00:30:39] [Server thread/INFO]: xhikoenfasis17 was killed while trying to hurt LITTLE_GHOTS
+[00:30:52] [Server thread/INFO]: xhikoenfasis17 was killed by [kukis kukis p] while trying to hurt LITTLE_GHOTS
+[00:31:08] [Netty Epoll IO #2/INFO]: Grim » xhikoenfasis17 failed Reach (x1) 3.12129 blocks, type=player
+[00:31:10] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:31:33] [Server thread/INFO]: xhikoenfasis17 was slain by emi4553 using [espada divina]
+[00:31:38] [Netty Epoll IO #2/INFO]: Grim » xhikoenfasis17 failed Hitboxes (x9) type=player
+[00:32:09] [Server thread/INFO]: xhikoenfasis17 lost connection: Disconnected
+[00:32:09] [Server thread/INFO]: xhikoenfasis17 left the game
+[00:33:28] [User Authenticator #10/INFO]: UUID of player xhikoenfasis17 is d491dd0e-5e2f-3863-8d29-ad4488976fa3
+[00:33:33] [Server thread/INFO]: xhikoenfasis17 joined the game
+[00:33:33] [Server thread/INFO]: xhikoenfasis17[/127.222.57.25:52107] logged in with entity id 26389 at ([world]-1468.429765402465, 64.0, 656.0744923829648)
+[00:33:33] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user xhikoenfasis17 has successfully logged in.
+[00:33:53] [Server thread/INFO]: Akukis issued server command: /tp emi4553 Akukis
+[00:33:59] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:34:13] [Server thread/INFO]: Akukis issued server command: /tp emi4553 xhikoenfasis17
+[00:34:15] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:34:30] [Server thread/INFO]: xhikoenfasis17 was slain by Akukis
+[00:34:40] [Server thread/INFO]: xhikoenfasis17 was slain by emi4553 using [espada divina]
+[00:35:10] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:13] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 Akukis
+[00:35:13] [Server thread/WARN]: xhikoenfasis17 moved wrongly!
+[00:35:15] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:15] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:16] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:16] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:16] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:17] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:17] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:17] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:18] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:18] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:18] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:19] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:19] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:19] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:20] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:20] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:20] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:20] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:21] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:21] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 a
+[00:35:23] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 Akukis
+[00:35:23] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 Akukis
+[00:35:24] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:35:24] [Server thread/INFO]: xhikoenfasis17 issued server command: /rtp
+[00:35:24] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 Akukis
+[00:35:24] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 Akukis
+[00:35:25] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 Akukis
+[00:35:26] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17 Akukis
+[00:35:28] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:35:30] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:35:35] [Server thread/INFO]: LITTLE_GHOTS lost connection: Disconnected
+[00:35:35] [Server thread/INFO]: LITTLE_GHOTS left the game
+[00:35:37] [Server thread/INFO]: xhikoenfasis17 was slain by emi4553 using [espada divina]
+[00:35:48] [Server thread/INFO]: xhikoenfasis17 was slain by emi4553 using [espada divina]
+[00:35:53] [User Authenticator #11/INFO]: UUID of player LITTLE_GHOTS is b32bcf28-e27e-33e7-9c0e-dc1a5e5b58be
+[00:35:57] [Server thread/INFO]: xhikoenfasis17 was slain by emi4553 using [espada divina]
+[00:35:59] [Server thread/INFO]: LITTLE_GHOTS joined the game
+[00:35:59] [Server thread/INFO]: LITTLE_GHOTS[/127.228.37.240:59821] logged in with entity id 26705 at ([world]-1446.512063159411, 54.747392804072476, 584.7706961071038)
+[00:35:59] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user LITTLE_GHOTS has successfully logged in.
+[00:36:32] [Server thread/INFO]: xhikoenfasis17 was killed by [kukis kukis p] while trying to hurt LITTLE_GHOTS
+[00:36:53] [Server thread/INFO]: emi4553 issued server command: /home
+[00:36:58] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:37:20] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:37:44] [Server thread/INFO]: xhikoenfasis17 issued server command: /staff
+[00:38:20] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:38:22] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS
+[00:38:41] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:38:50] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS using [kukis kukis p]
+[00:39:58] [Server thread/INFO]: xhikoenfasis17 was slain by LITTLE_GHOTS
+[00:40:25] [Server thread/INFO]: Akukis issued server command: /owner emi4553
+[00:40:50] [Server thread/INFO]: xhikoenfasis17 issued server command: /tpa akukis
+[00:40:50] [Server thread/INFO]: [Essentials] xhikoenfasis17 was denied access to command.
+[00:40:51] [Server thread/INFO]: xhikoenfasis17 issued server command: /tpa akukis
+[00:40:51] [Server thread/INFO]: [Essentials] xhikoenfasis17 was denied access to command.
+[00:41:19] [Server thread/INFO]: Akukis issued server command: /experience add xhikoenfasis17 3414
+[00:41:19] [Server thread/INFO]: [Akukis: Gave 3414 experience points to xhikoenfasis17]
+[00:41:34] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17
+[00:41:45] [Server thread/INFO]: Akukis issued server command: /vanish
+[00:43:04] [Server thread/INFO]: xhikoenfasis17 was slain by Akukis
+[00:43:16] [Server thread/INFO]: Akukis issued server command: /repair a
+[00:43:18] [Server thread/INFO]: Akukis issued server command: /repair all
+[00:43:25] [Server thread/INFO]: Akukis issued server command: /feed
+[00:44:48] [Server thread/INFO]: xhikoenfasis17 was slain by Akukis using [Gampi's Sword]
+[00:44:58] [Server thread/INFO]: Akukis issued server command: /feed
+[00:46:11] [Server thread/INFO]: Akukis issued server command: /tp xhikoenfasis17
+[00:46:35] [Server thread/INFO]: Akukis issued server command: /gamemode adventure xhikoenfasis17
+[00:46:48] [Server thread/WARN]: xhikoenfasis17 moved wrongly!
+[00:46:51] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:47:19] [Server thread/INFO]: Akukis issued server command: /gamemode survival xhikoenfasis17
+[00:47:22] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:47:56] [Server thread/INFO]: xhikoenfasis17 was slain by Akukis using [Gampi's Sword]
+[00:48:14] [Server thread/INFO]: xhikoenfasis17 tried to swim in lava
+[00:48:52] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:49:19] [Server thread/INFO]: xhikoenfasis17 issued server command: /tpa akukis
+[00:49:19] [Server thread/INFO]: [Essentials] xhikoenfasis17 was denied access to command.
+[00:49:40] [Server thread/INFO]: xhikoenfasis17 lost connection: Disconnected
+[00:49:40] [Server thread/INFO]: xhikoenfasis17 left the game
+[00:50:01] [Server thread/INFO]: Akukis issued server command: /gamemode creative emi4553 10
+[00:50:18] [Server thread/INFO]: Akukis issued server command: /gamemode survival emi4553
+[00:54:02] [Server thread/INFO]: Akukis issued server command: /vanish
+[00:54:06] [Server thread/INFO]: Akukis issued server command: /tp LITTLE_GHOTS
+[00:55:52] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:56:05] [Server thread/INFO]: Akukis issued server command: /tp LITTLE_GHOTS
+[00:57:49] [Server thread/INFO]: Akukis issued server command: /gamemode creative emi4553
+[00:57:57] [Server thread/INFO]: Akukis issued server command: /gamemode survival emi4553
+[00:58:02] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[00:58:15] [Server thread/INFO]: Akukis issued server command: /invsee emi4553
+[00:59:18] [Server thread/INFO]: LITTLE_GHOTS lost connection: Disconnected
+[00:59:18] [Server thread/INFO]: LITTLE_GHOTS left the game
+[00:59:52] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:00:00] [Server thread/INFO]: Akukis issued server command: /heal
+[01:00:04] [User Authenticator #12/INFO]: UUID of player LITTLE_GHOTS is b32bcf28-e27e-33e7-9c0e-dc1a5e5b58be
+[01:00:10] [Server thread/INFO]: LITTLE_GHOTS joined the game
+[01:00:10] [Server thread/INFO]: LITTLE_GHOTS[/127.228.37.240:34329] logged in with entity id 37842 at ([world]-1665.2578613827907, 112.0, 2980.7068114158983)
+[01:00:10] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user LITTLE_GHOTS has successfully logged in.
+[01:00:52] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:00:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:01:43] [Server thread/INFO]: Akukis issued server command: /give emi4553 enchanted_golden_apple 64
+[01:01:45] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[01:01:48] [Server thread/INFO]: Akukis issued server command: /invsee
+[01:01:50] [Server thread/INFO]: Akukis issued server command: /invsee emi4553
+[01:01:55] [Server thread/INFO]: Akukis issued server command: /tp LITTLE_GHOTS
+[01:03:38] [Server thread/INFO]: Akukis issued server command: /give LITTLE_GHOTS totem_of_undying
+[01:03:50] [Server thread/INFO]: LITTLE_GHOTS issued server command: /pv 1
+[01:04:49] [Server thread/INFO]: Akukis issued server command: /give LITTLE_GHOTS totemofundying
+[01:05:03] [Server thread/INFO]: emi4553 issued server command: /tpa LITTLE_GHOTS
+[01:05:03] [Async Chat Thread - #24/INFO]:  [VipKukis] LITTLE_GHOTS: bedrock
+[01:05:39] [Server thread/INFO]: Akukis lost connection: Disconnected
+[01:05:39] [Server thread/INFO]: Akukis left the game
+[01:05:48] [Server thread/INFO]: LITTLE_GHOTS lost connection: Disconnected
+[01:05:48] [Server thread/INFO]: LITTLE_GHOTS left the game
+[01:06:45] [Server thread/INFO]: emi4553 lost connection: Disconnected
+[01:06:45] [Server thread/INFO]: emi4553 left the game
+[01:08:26] [User Authenticator #13/INFO]: UUID of player LITTLE_GHOTS is b32bcf28-e27e-33e7-9c0e-dc1a5e5b58be
+[01:08:37] [Server thread/INFO]: LITTLE_GHOTS joined the game
+[01:08:37] [Server thread/INFO]: LITTLE_GHOTS[/127.228.37.240:58263] logged in with entity id 41723 at ([world]-1671.3003768986184, 74.875, 3869.099105341522)
+[01:08:37] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user LITTLE_GHOTS has successfully logged in.
+[01:10:38] [User Authenticator #14/INFO]: UUID of player emi4553 is cd1c0852-84fc-3032-8ac6-d3140c8232a7
+[01:10:48] [Server thread/INFO]: emi4553 joined the game
+[01:10:48] [Server thread/INFO]: emi4553[/127.143.123.243:51129] logged in with entity id 42351 at ([world]431394.32720207877, 24.0, 431488.27082037437)
+[01:11:13] [Server thread/INFO]: emi4553 issued server command: /login
+[01:11:13] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user emi4553 has successfully logged in.
+[01:16:20] [Server thread/INFO]: LITTLE_GHOTS lost connection: Disconnected
+[01:16:20] [Server thread/INFO]: LITTLE_GHOTS left the game
+[01:30:14] [User Authenticator #15/INFO]: UUID of player Akukis is 5134f704-e126-305b-b6d6-49fcca5a845e
+[01:30:19] [Server thread/INFO]: Akukis joined the game
+[01:30:19] [Server thread/INFO]: Akukis[/127.119.142.41:45875] logged in with entity id 44656 at ([world]-1670.699999988079, 74.0, 3870.135130499702)
+[01:30:19] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user Akukis has successfully logged in.
+[01:30:23] [Async Chat Thread - #26/INFO]:  Akukis: holi
+[01:30:36] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[01:30:51] [Async Chat Thread - #26/INFO]:  Akukis: todo bien?
+[01:31:12] [Server thread/INFO]: Akukis lost connection: Disconnected
+[01:31:12] [Server thread/INFO]: Akukis left the game
+[01:38:22] [Netty Epoll IO #2/INFO]: Grim » emi4553 failed Simulation (x120) .131559 /gl 1
+[01:39:56] [User Authenticator #16/INFO]: UUID of player Akukis is 5134f704-e126-305b-b6d6-49fcca5a845e
+[01:40:02] [Server thread/INFO]: Akukis joined the game
+[01:40:02] [Server thread/INFO]: Akukis[/127.119.142.41:59865] logged in with entity id 45949 at ([world]431380.121774511, 62.0, 431486.3000000119)
+[01:40:02] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user Akukis has successfully logged in.
+[01:40:08] [Server thread/INFO]: Akukis issued server command: /tp emi4553
+[01:40:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:40:59] [Async Chat Thread - #28/INFO]:  [SupremeKukis] emi4553: me voy a bañar afk
+[01:41:42] [Server thread/INFO]: emi4553 issued server command: /AFK
+[01:41:48] [Async Chat Thread - #28/INFO]:  [SupremeKukis] emi4553: afk
+[01:42:23] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[01:42:42] [Server thread/INFO]: Akukis has made the advancement [Crafting a New Look]
+[01:43:15] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:48:07] [Server thread/INFO]: emi4553 lost connection: Disconnected
+[01:48:07] [Server thread/INFO]: emi4553 left the game
+[01:57:45] [Server thread/INFO]: Akukis lost connection: Disconnected
+[01:57:45] [Server thread/INFO]: Akukis left the game

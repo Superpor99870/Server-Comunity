@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.57.28.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776821561095
+  login: 1776821545948
+money: '500'
+last-account-name: Bryan3122
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -388.6753333262908
+  y: 64.0
+  z: -88.67732189502482
+  yaw: -44.54998016357422
+  pitch: -12.899991989135742
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -398.1623649003753
+  y: 128.42672551437767
+  z: -96.3837552927286
+  yaw: 9.900105476379395
+  pitch: 46.94995880126953

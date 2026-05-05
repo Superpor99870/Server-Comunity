@@ -1,0 +1,22 @@
+[2026/05/03 02:13:59 INFO]:           __             _       
+[2026/05/03 02:13:59 INFO]:   _ __   / /  ___   __ _(_)_ __  
+[2026/05/03 02:13:59 INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[2026/05/03 02:13:59 INFO]:  | | | / /__| (_) | (_| | | | | |
+[2026/05/03 02:13:59 INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[2026/05/03 02:13:59 INFO]:                   |___/            
+[2026/05/03 02:13:59 INFO]:  By: www.nickuc.com - V 2.0.16
+[2026/05/03 02:13:59 INFO]:  
+[2026/05/03 02:13:59 DEBUG]: Loading the messages_es.yml message file...
+[2026/05/03 02:13:59 DEBUG]: Messages were loaded in 84 ms (single file).
+[2026/05/03 02:13:59 WARN]: The "unsupported-settings.perform-username-validation" option is enabled in config/paper-global.yml
+[2026/05/03 02:13:59 WARN]: The username-appender feature may fail with an invalid nickname kick message.
+[2026/05/03 02:13:59 DEBUG]: Settings were loaded in 175 ms.
+[2026/05/03 02:13:59 DEBUG]: Loading database...
+[2026/05/03 02:14:00 DEBUG]: Starting logger filter...
+[2026/05/03 02:14:20 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Akukis', `unique_id` = 5134f704e126305bb6d649fcca5a845e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$FVkKhHlP9hWJutI4dzkGsw$Livt+xbGuqnAPN+4QMsK0L4ZOPpS5e6vLfQqvafpQ7I', `last_ip` = '127.119.142.41', `creation_date` = 2026-04-22 01:32:30.845, `last_seen` = 2026-05-03 02:14:20.364, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 3" (applied to [last_ip, last_seen, settings] columns)
+[2026/05/03 02:14:20 INFO]: The user Akukis has successfully logged in.
+[2026/05/03 02:17:58 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'emi4553', `unique_id` = cd1c085284fc30328ac6d3140c8232a7,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$EfgUo84vBYqr2WSjMvXBcw$AF6r8G98UhBOXrFjmlkilrQls0HdnkZ50D37Fr4kSN4', `last_ip` = '127.171.175.223', `creation_date` = 2026-04-25 18:20:29.701, `last_seen` = 2026-05-03 02:17:58.139, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 61" (applied to [last_ip, last_seen, settings] columns)
+[2026/05/03 02:17:58 INFO]: The user emi4553 has successfully logged in.
+[2026/05/03 02:44:14 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'emi4553', `unique_id` = cd1c085284fc30328ac6d3140c8232a7,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$EfgUo84vBYqr2WSjMvXBcw$AF6r8G98UhBOXrFjmlkilrQls0HdnkZ50D37Fr4kSN4', `last_ip` = '127.171.175.223', `creation_date` = 2026-04-25 18:20:29.701, `last_seen` = 2026-05-03 02:44:14.72, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 61" (applied to [last_seen, settings] columns)
+[2026/05/03 02:44:21 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Akukis', `unique_id` = 5134f704e126305bb6d649fcca5a845e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$FVkKhHlP9hWJutI4dzkGsw$Livt+xbGuqnAPN+4QMsK0L4ZOPpS5e6vLfQqvafpQ7I', `last_ip` = '127.119.142.41', `creation_date` = 2026-04-22 01:32:30.845, `last_seen` = 2026-05-03 02:44:21.92, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 3" (applied to [last_seen, settings] columns)
+[2026/05/03 02:46:17 INFO]: Successful plugin core shutdown (took 0.00s)

@@ -1,0 +1,93 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone_axe": 22,
+      "minecraft:chicken": 1,
+      "minecraft:diamond_pickaxe": 70,
+      "minecraft:crafting_table": 1,
+      "minecraft:apple": 1,
+      "minecraft:shield": 1,
+      "minecraft:oak_planks": 14,
+      "minecraft:porkchop": 1,
+      "minecraft:brown_wool": 1,
+      "minecraft:white_wool": 2,
+      "minecraft:diamond_chestplate": 1
+    },
+    "minecraft:killed": {
+      "minecraft:horse": 1,
+      "minecraft:chicken": 1,
+      "minecraft:cow": 2,
+      "minecraft:villager": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:damage_blocked_by_shield": 210,
+      "minecraft:time_since_rest": 10576,
+      "minecraft:walk_one_cm": 37243,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 191,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 174,
+      "minecraft:play_time": 10576,
+      "minecraft:damage_dealt": 939,
+      "minecraft:jump": 322,
+      "minecraft:time_since_death": 10576,
+      "minecraft:drop": 5,
+      "minecraft:sprint_one_cm": 42644,
+      "minecraft:open_chest": 2,
+      "minecraft:fall_one_cm": 8870,
+      "minecraft:total_world_time": 10576,
+      "minecraft:swim_one_cm": 934,
+      "minecraft:fly_one_cm": 75323,
+      "minecraft:walk_on_water_one_cm": 978,
+      "minecraft:crouch_one_cm": 1494,
+      "minecraft:sneak_time": 439,
+      "minecraft:climb_one_cm": 36,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 1,
+      "minecraft:bush": 2,
+      "minecraft:oak_log": 9,
+      "minecraft:coal_ore": 16,
+      "minecraft:sugar_cane": 7,
+      "minecraft:iron_ore": 4,
+      "minecraft:stone": 50
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:oak_planks": 40,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:stone_shovel": 1,
+      "minecraft:oak_planks": 40,
+      "minecraft:spider_eye": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:stone_pickaxe": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 1,
+      "minecraft:dirt": 3,
+      "minecraft:cobblestone": 53,
+      "minecraft:brown_wool": 1,
+      "minecraft:white_wool": 2,
+      "minecraft:oak_planks": 64,
+      "minecraft:chicken": 1,
+      "minecraft:sugar_cane": 11,
+      "minecraft:leather": 5,
+      "minecraft:stone_shovel": 1,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:beef": 4,
+      "minecraft:raw_iron": 4,
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:apple": 1,
+      "minecraft:coal": 16,
+      "minecraft:oak_log": 10,
+      "minecraft:stone_axe": 1,
+      "minecraft:shield": 1,
+      "minecraft:spider_eye": 1
+    }
+  },
+  "DataVersion": 4671
+}

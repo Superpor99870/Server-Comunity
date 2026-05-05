@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.56.229.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777086781794
+  login: 1777085800453
+money: '500'
+last-account-name: Milo53535353
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1035.6950714750362
+  y: 58.29488991530044
+  z: 39.950806939635925
+  yaw: 63.97088623046875
+  pitch: 13.649992942810059
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1464.4191147669628
+  y: 65.0
+  z: 585.6680669733961
+  yaw: -89.26631927490234
+  pitch: 37.32017517089844

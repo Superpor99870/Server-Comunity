@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:stone_shovel": 1,
+      "minecraft:arrow": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:cobblestone": 45,
+      "minecraft:spruce_planks": 21,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:bone": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_sword": 3
+    },
+    "minecraft:killed_by": {
+      "minecraft:creeper": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2008,
+      "minecraft:walk_one_cm": 6565,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 547,
+      "minecraft:damage_dealt": 190,
+      "minecraft:play_time": 4167,
+      "minecraft:jump": 57,
+      "minecraft:time_since_death": 1973,
+      "minecraft:drop": 7,
+      "minecraft:sprint_one_cm": 10470,
+      "minecraft:fall_one_cm": 2650,
+      "minecraft:total_world_time": 4167,
+      "minecraft:fly_one_cm": 11706,
+      "minecraft:crouch_one_cm": 27,
+      "minecraft:sneak_time": 78,
+      "minecraft:deaths": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_planks": 21,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:cobblestone": 45,
+      "minecraft:crafting_table": 1,
+      "minecraft:stone_shovel": 1,
+      "minecraft:bone": 1,
+      "minecraft:arrow": 2
+    }
+  },
+  "DataVersion": 4671
+}

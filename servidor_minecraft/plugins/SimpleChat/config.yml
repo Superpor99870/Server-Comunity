@@ -1,0 +1,43 @@
+# SimplyChat Configuration
+# Basado en la documentación oficial de SimplyChat
+
+default-format: "<gray>%prefix% %name%</gray> <dark_gray>»</dark_gray> <white>%message%</white>"
+
+formats:
+  # Rango base
+  kukis:
+    format: "<gray>%prefix% %name%</gray> <dark_gray>»</dark_gray> <gray>%message%</gray>"
+  
+  # VipKukis - Verde
+  vipkukis:
+    format: "<green>%prefix% %name%</green> <dark_gray>»</dark_gray> <white>%message%</white>"
+  
+  # ProKukis - Azul claro
+  prokukis:
+    format: "<aqua>%prefix% %name%</aqua> <dark_gray>»</dark_gray> <white>%message%</white>"
+  
+  # SuperKukis - Dorado
+  superkukis:
+    format: "<gold>%prefix% %name%</gold> <dark_gray>»</dark_gray> <white>%message%</white>"
+  
+  # UltraKukis - Rojo
+  ultrakukis:
+    format: "<red>%prefix% %name%</red> <dark_gray>»</dark_gray> <white>%message%</white>"
+  
+  # DivineKukis - Gradiente púrpura
+  divinekukis:
+    format: "<gradient:#b000ff:#da70d6>%prefix% %name%</gradient> <dark_gray>»</dark_gray> <white>%message%</white>"
+  
+  # SupremeKukis - Gradiente dorado + negrita
+  supremekukis:
+    format: "<gradient:#ffd700:#ffaa00><bold>%prefix% %name%</bold></gradient> <dark_gray>»</dark_gray> <gold>%message%</gold>"
+  
+  # PartnerKukis - Azul oscuro + cursiva
+  partnerkukis:
+    format: "<dark_aqua><italic>%prefix% %name%</italic></dark_aqua> <dark_gray>»</dark_gray> <white>%message%</white>"
+  
+priority: HIGHEST
+
+messages:
+  no_permission: "<red>No tienes permiso para usar este comando.</red>"
+  reloaded: "<green>SimplyChat recargado correctamente.</green>"

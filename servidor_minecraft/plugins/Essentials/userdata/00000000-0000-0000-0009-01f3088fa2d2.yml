@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: true
+muted: false
+jailed: false
+ip-address: 127.183.215.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777857965113
+  login: 1777860834692
+money: '500'
+last-account-name: .Elaxelinsan0
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: 431249.28
+  y: 91.84596
+  z: 431676.34
+  yaw: -17.908935546875
+  pitch: 67.7587890625
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: 431459.56
+  y: 87.0
+  z: 431389.6
+  yaw: -174.2337646484375
+  pitch: 39.71571350097656

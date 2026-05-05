@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.189.210.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777085967386
+  login: 1777084295712
+money: '500'
+last-account-name: Perry_CULITOrico
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1377.2510320477566
+  y: 62.44739540147087
+  z: 600.2859087802327
+  yaw: -57.616455078125
+  pitch: 25.170190811157227
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -40.30000001192093
+  y: 73.0
+  z: -2883.47853544197
+  yaw: -27.57428741455078
+  pitch: 60.300018310546875

@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.218.124.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777694955196
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777695237704
+  login: 1777696639044
+  kits:
+    tools: 1777686536231
+money: '500'
+last-account-name: pro54458
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1518.5135933938052
+  y: -17.4375
+  z: 567.6999999880791
+  yaw: -32.700042724609375
+  pitch: 18.450040817260742
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1519.8392430775732
+  y: -17.4375
+  z: 566.0307755065019
+  yaw: 105.16583251953125
+  pitch: 36.15000534057617
+homes:
+  home:
+    world: 6073ab22-94ef-47fc-a152-16589d86efaa
+    world-name: world
+    x: -1521.1046329864203
+    y: -18.0
+    z: 568.0440239373056
+    yaw: -147.88380432128906
+    pitch: 21.450002670288086

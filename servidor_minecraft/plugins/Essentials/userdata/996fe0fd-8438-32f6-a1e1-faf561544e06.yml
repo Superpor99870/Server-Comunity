@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.71.159.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777146393946
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777147075737
+  login: 1777146727306
+money: '500'
+last-account-name: Nagi_DMC
+lastlocation:
+  world: fefd8c0c-5334-47ac-9e2c-51847318f57a
+  world-name: world_nether
+  x: -18.30000001192093
+  y: 88.9875439807845
+  z: 2296.867289420424
+  yaw: -12.951171875
+  pitch: 16.661069869995117
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.495858354916
+  y: 64.0
+  z: 590.4790379533105
+  yaw: 78.43374633789062
+  pitch: 14.220161437988281

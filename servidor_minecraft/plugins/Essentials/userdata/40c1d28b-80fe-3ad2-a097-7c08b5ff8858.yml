@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.120.92.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777141223146
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777141317119
+  login: 1777140022437
+money: '500'
+last-account-name: renato231
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.3737945892497
+  y: 56.0
+  z: 590.5091452390196
+  yaw: 111.73375701904297
+  pitch: -8.279840469360352
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1642.923654347299
+  y: 67.0
+  z: 912.2212617049976
+  yaw: -34.773468017578125
+  pitch: 22.785860061645508

@@ -1,0 +1,54 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: true
+muted: false
+jailed: false
+ip-address: 127.119.142.41
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777945208386
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777946265976
+  login: 1777945202842
+  kits:
+    tools: 1777083380464
+    dtools: 1777082085723
+    notch: 1776999243739
+    firework: 1777000783850
+money: '1000'
+last-account-name: Akukis
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: 431378.9285622563
+  y: 61.5
+  z: 431486.6999999881
+  yaw: 69.0419692993164
+  pitch: -4.530637741088867
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: 431396.85951475566
+  y: 24.0
+  z: 431485.2968792412
+  yaw: 31.62506103515625
+  pitch: 22.039264678955078
+last-message-reply-recipient: true
+homes:
+  home:
+    world: 6073ab22-94ef-47fc-a152-16589d86efaa
+    world-name: world
+    x: 431375.8953247164
+    y: 26.0
+    z: 431484.16342607833
+    yaw: 82.24856567382812
+    pitch: 23.101093292236328

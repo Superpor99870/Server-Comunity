@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.127.7.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777140153846
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777140275261
+  login: 1777139824499
+money: '500'
+last-account-name: juuls06
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1472.5111150559255
+  y: 63.41999998688698
+  z: 608.5417146682681
+  yaw: 18.7327880859375
+  pitch: 1.799965262413025
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1472.5111150559255
+  y: 63.41999998688698
+  z: 608.5417146682681
+  yaw: 18.7327880859375
+  pitch: 1.799965262413025

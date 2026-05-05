@@ -1,0 +1,508 @@
+[April 21, 2026 01:58:04.096AM UTC]  EntityDamageByEntityEvent was triggered by damaged COW Cow, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 01:58:04.100AM UTC]  PlayerPreTagEvent was triggered on Akukis by Cow with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 01:58:04.102AM UTC]  PlayerTagEvent was triggered on Akukis by Cow with type MOB and reason ATTACKER.
+[April 21, 2026 01:58:14.355AM UTC]  PlayerPunishEvent was triggered on Akukis with reason EXPIRE and cancelled true.
+[April 21, 2026 01:58:14.356AM UTC]  PlayerUntagEvent was triggered on Akukis with reason EXPIRE and expire set to true.
+[April 21, 2026 02:01:48.553AM UTC]  EntityDamageByEntityEvent was triggered by damaged CHICKEN Chicken, damager FOX Fox and cancelled false.
+[April 21, 2026 02:01:49.552AM UTC]  EntityDamageByEntityEvent was triggered by damaged CHICKEN Chicken, damager FOX Fox and cancelled false.
+[April 21, 2026 02:01:49.953AM UTC]  EntityDamageByEntityEvent was triggered by damaged CHICKEN Chicken, damager FOX Fox and cancelled false.
+[April 21, 2026 02:01:50.853AM UTC]  EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[April 21, 2026 02:01:51.202AM UTC]  EntityDamageByEntityEvent was triggered by damaged CHICKEN Chicken, damager FOX Fox and cancelled false.
+[April 21, 2026 02:01:51.755AM UTC]  EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[April 21, 2026 02:01:53.902AM UTC]  EntityDamageByEntityEvent was triggered by damaged CHICKEN Chicken, damager FOX Fox and cancelled false.
+[April 21, 2026 02:03:58.002AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:03:59.702AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:04:02.252AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:04:04.453AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:04:05.053AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:06:01.001AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:06:03.201AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:06:05.701AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:06:06.751AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:06:07.802AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:10:46.752AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:10:48.801AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:10:49.853AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:10:50.902AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:10:51.952AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:11:52.754AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:11:52.754AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[April 21, 2026 02:11:52.757AM UTC]  PlayerTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKED.
+[April 21, 2026 02:11:54.252AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:11:54.253AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[April 21, 2026 02:11:54.256AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKED.
+[April 21, 2026 02:11:55.273AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:11:55.274AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:11:55.276AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:11:55.821AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:11:55.822AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:11:55.823AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:11:56.724AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:11:56.724AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:11:56.725AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:11:57.605AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:11:57.605AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[April 21, 2026 02:11:57.606AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKED.
+[April 21, 2026 02:11:57.675AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:11:57.676AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:11:57.677AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:11:58.221AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:11:58.222AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:11:58.222AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:11:58.772AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:11:58.772AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:11:58.773AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:11:59.322AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:11:59.322AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:11:59.323AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:00.573AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:00.574AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:00.574AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:01.822AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:01.823AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:01.823AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:02.922AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:02.923AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:02.924AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:03.474AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:03.474AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:03.475AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:04.173AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:04.174AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:04.174AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:04.774AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:04.775AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:04.775AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:06.073AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:06.073AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:06.074AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:06.625AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:06.626AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:06.627AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:07.227AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:07.228AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:07.229AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:07.825AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:12:07.825AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:12:07.826AM UTC]  PlayerReTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:12:07.828AM UTC]  PlayerPunishEvent was triggered on Akukis with reason ENEMY_DEATH and cancelled true.
+[April 21, 2026 02:12:07.829AM UTC]  PlayerUntagEvent was triggered on Akukis with reason ENEMY_DEATH and expire set to true.
+[April 21, 2026 02:13:01.453AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:02.152AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:03.152AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:04.302AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:11.352AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:12.553AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:13.553AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:15.004AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:15.553AM UTC]  EntityDamageByEntityEvent was triggered by damaged VILLAGER Fletcher, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:13:18.172AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:13:18.172AM UTC]  PlayerPreTagEvent was triggered on Akukis by Zombie with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:13:18.174AM UTC]  PlayerTagEvent was triggered on Akukis by Zombie with type MOB and reason ATTACKER.
+[April 21, 2026 02:13:28.349AM UTC]  PlayerPunishEvent was triggered on Akukis with reason EXPIRE and cancelled true.
+[April 21, 2026 02:13:28.350AM UTC]  PlayerUntagEvent was triggered on Akukis with reason EXPIRE and expire set to true.
+[April 21, 2026 02:13:54.653AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:13:55.803AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:13:56.903AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:13:57.955AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:14:02.203AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:19:01.402AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:19:04.801AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:19:05.851AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:20:35.951AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:20:37.401AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:20:38.601AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:20:41.301AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:20:42.952AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:20:58.265AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:20:58.266AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:20:58.267AM UTC]  PlayerTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:20:58.965AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:20:58.965AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:20:58.966AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:20:59.565AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:20:59.565AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:20:59.565AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:00.164AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:00.164AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:00.165AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:00.715AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:00.715AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:00.715AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:01.415AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:01.416AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:01.416AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:02.020AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:02.021AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:02.021AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:02.663AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:02.664AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:02.664AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:03.214AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:03.214AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:03.214AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:03.814AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:03.815AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:03.815AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:04.463AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:04.464AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:04.464AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:05.265AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:05.266AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:05.266AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:06.064AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:21:06.064AM UTC]  PlayerPreTagEvent was triggered on Akukis by Skeleton with type MOB, reason ATTACKER, and cancelled false.
+[April 21, 2026 02:21:06.064AM UTC]  PlayerReTagEvent was triggered on Akukis by Skeleton with type MOB and reason ATTACKER.
+[April 21, 2026 02:21:12.757AM UTC]  PlayerPunishEvent was triggered on Akukis with reason ENEMY_DEATH and cancelled true.
+[April 21, 2026 02:21:12.757AM UTC]  PlayerUntagEvent was triggered on Akukis with reason ENEMY_DEATH and expire set to true.
+[April 21, 2026 02:21:21.752AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:21:23.502AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:21:24.901AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:21:25.953AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:21:27.002AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:23:37.151AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:23:38.351AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:23:40.152AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:23:41.903AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:23:43.152AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:26:29.272AM UTC]  EntityDamageByEntityEvent was triggered by damaged COW Cow, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:26:47.854AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:26:53.056AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:26:54.304AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:29:33.849AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[April 21, 2026 02:29:34.848AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[April 21, 2026 02:29:35.001AM UTC]  EntityDamageByEntityEvent was triggered by damaged WOLF Wolf, damager ARROW Arrow and cancelled false.
+[April 21, 2026 02:30:00.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:01.901AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:02.900AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:03.753AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:03.951AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:04.599AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:05.549AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:05.602AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:06.152AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:06.599AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:06.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:07.651AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:07.850AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:08.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:30:10.001AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ARROW Arrow and cancelled false.
+[April 21, 2026 02:30:12.951AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ARROW Arrow and cancelled false.
+[April 21, 2026 02:30:14.102AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:16.300AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ARROW Arrow and cancelled false.
+[April 21, 2026 02:30:16.952AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:18.253AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:25.549AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:30:27.448AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:30:28.052AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:30.549AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:30:31.800AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:30:32.002AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:33.152AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:34.399AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:30:34.456AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:35.299AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:30:35.552AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:30:36.852AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:32:06.350AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:06.449AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:10.200AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:10.249AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:12.199AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:12.248AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:15.349AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:16.399AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:17.449AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:19.449AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:19.499AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:20.649AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:21.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:28.148AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:28.198AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:30.049AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:30.099AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:31.698AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:31.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:32.949AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:32.949AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:34.149AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:38.199AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:32:55.150AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:56.700AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:57.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:32:59.049AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:33:00.200AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:33:03.548AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:33:05.198AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:33:05.249AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:33:16.398AM UTC]  EntityDamageByEntityEvent was triggered by damaged AXOLOTL Axolotl, damager DROWNED Drowned and cancelled false.
+[April 21, 2026 02:33:16.399AM UTC]  EntityDamageByEntityEvent was triggered by damaged DROWNED Drowned, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:36:38.349AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:36:40.798AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:36:42.748AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:36:44.449AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:36:45.500AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:37:55.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager SPIDER Spider and cancelled false.
+[April 21, 2026 02:38:06.996AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:38:36.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:38:40.100AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:38:44.350AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:38:46.399AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:38:51.048AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:39:34.548AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:39:35.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:39:37.398AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:39:41.348AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:39:42.453AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:39:44.745AM UTC]  PlayerPreTagEvent was triggered on Akukis by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[April 21, 2026 02:39:44.754AM UTC]  PlayerTagEvent was triggered on Akukis by Unknown with type DAMAGE and reason UNKNOWN.
+[April 21, 2026 02:40:04.855AM UTC]  PlayerPunishEvent was triggered on Akukis with reason EXPIRE and cancelled true.
+[April 21, 2026 02:40:04.856AM UTC]  PlayerUntagEvent was triggered on Akukis with reason EXPIRE and expire set to true.
+[April 21, 2026 02:41:31.449AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:41:32.599AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:41:36.299AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:41:41.849AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:41:43.249AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:43:49.300AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:43:50.698AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:43:53.198AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:44:34.349AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:44:36.650AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:44:53.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:44:55.099AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:44:56.148AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:45:52.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:45:57.649AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:45:59.614AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:46:00.400AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:46:04.700AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:46:40.499AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:46:42.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:46:43.899AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:46:50.098AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:46:52.450AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:48:17.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:48:19.048AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:48:21.799AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:48:25.799AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:48:26.087AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:48:26.799AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:48:27.848AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:48:28.287AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:48:29.348AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:48:29.685AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:48:30.399AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:48:31.137AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:49:38.949AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:49:40.098AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:49:42.949AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:49:45.500AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:49:46.949AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:49:55.949AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:49:57.449AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:49:59.748AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:50:03.599AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:50:06.000AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:51:17.299AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:51:18.049AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:51:20.500AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:51:25.149AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:51:25.783AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:51:27.500AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:51:27.745AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:51:55.753AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ARROW Arrow and cancelled false.
+[April 21, 2026 02:52:04.501AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ARROW Arrow and cancelled false.
+[April 21, 2026 02:52:06.083AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:08.933AM UTC]  EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:20.332AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:21.284AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:23.483AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:24.035AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:25.598AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager SPIDER Spider and cancelled false.
+[April 21, 2026 02:52:25.634AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:26.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager SPIDER Spider and cancelled false.
+[April 21, 2026 02:52:26.882AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:27.832AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:28.148AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager SPIDER Spider and cancelled false.
+[April 21, 2026 02:52:28.932AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:29.433AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:29.999AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager SPIDER Spider and cancelled false.
+[April 21, 2026 02:52:31.199AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager SPIDER Spider and cancelled false.
+[April 21, 2026 02:52:31.533AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:32.132AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:32.684AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:33.793AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:35.333AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:36.099AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager SPIDER Spider and cancelled false.
+[April 21, 2026 02:52:36.233AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:36.734AM UTC]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:52:54.048AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:52:55.748AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:52:57.298AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:52:58.348AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:52:59.400AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:55:09.951AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:55:12.399AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:55:15.249AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:55:20.799AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:55:21.848AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:56:08.899AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:56:09.900AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:56:10.998AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:56:11.999AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:56:13.281AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:13.830AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:15.849AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:56:15.930AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:17.130AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:17.201AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager ZOMBIE Zombie and cancelled false.
+[April 21, 2026 02:56:17.631AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:18.181AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:18.681AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:19.231AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:20.880AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:23.631AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:24.131AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:24.680AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:25.331AM UTC]  EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 02:56:43.299AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:56:44.349AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:57:36.949AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:57:38.649AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:57:39.149AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:24.549AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:26.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:28.999AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:32.849AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:34.248AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:34.399AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:37.299AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:38.699AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:39.749AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:58:40.748AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:59:30.599AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:59:32.999AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:59:35.649AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:59:37.999AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 02:59:39.698AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 03:00:20.842AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager PLAYER SquizoCriz002 and cancelled true.
+[April 21, 2026 03:00:21.593AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:21.597AM UTC]  PlayerTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:21.602AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:21.602AM UTC]  PlayerTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:21.643AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER Akukis, damager PLAYER SquizoCriz002 and cancelled false.
+[April 21, 2026 03:00:26.080AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:26.082AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:26.083AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:26.083AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:26.083AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:26.978AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:26.979AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:26.979AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:26.979AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:26.980AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:27.676AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:27.677AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:27.677AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:27.677AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:27.677AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:28.527AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:28.528AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:28.528AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:28.528AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:28.528AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:29.226AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:29.227AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:29.228AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:29.228AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:29.229AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:30.375AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:30.376AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:30.376AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:30.376AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:30.377AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:30.928AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:30.929AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:30.929AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:30.929AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:30.930AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:31.678AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:31.679AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:31.679AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:31.679AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:31.679AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:32.278AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:32.279AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:32.279AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:32.279AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:32.279AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:34.026AM UTC]  EntityDamageByEntityEvent was triggered by damaged COW Cow, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:35.578AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:35.579AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:35.579AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:35.579AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:35.579AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:36.227AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:36.228AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:36.228AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:36.228AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:36.228AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:37.076AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:37.076AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:37.076AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:37.077AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:37.077AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:37.827AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:37.827AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:37.828AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:37.828AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:37.828AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:41.278AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:41.278AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:41.279AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:41.279AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:41.279AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:42.325AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:42.326AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:42.326AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:42.327AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:42.327AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:42.927AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:42.927AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:42.927AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:42.928AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:42.928AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:44.377AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:44.378AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:44.378AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:44.378AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:44.379AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:45.476AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:45.476AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:45.477AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:45.477AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:45.477AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:46.627AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:46.628AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:46.628AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:46.628AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:46.629AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:47.228AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:47.229AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:47.229AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:47.229AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:47.229AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:50.377AM UTC]  PlayerPreTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER, reason ATTACKER, and cancelled false.
+[April 21, 2026 03:00:50.378AM UTC]  PlayerReTagEvent was triggered on Akukis by SquizoCriz002 with type PLAYER and reason ATTACKER.
+[April 21, 2026 03:00:50.378AM UTC]  PlayerPreTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER, reason ATTACKED, and cancelled false.
+[April 21, 2026 03:00:50.378AM UTC]  PlayerReTagEvent was triggered on SquizoCriz002 by Akukis with type PLAYER and reason ATTACKED.
+[April 21, 2026 03:00:50.379AM UTC]  EntityDamageByEntityEvent was triggered by damaged PLAYER SquizoCriz002, damager PLAYER Akukis and cancelled false.
+[April 21, 2026 03:00:50.388AM UTC]  PlayerPunishEvent was triggered on SquizoCriz002 with reason SELF_DEATH and cancelled true.
+[April 21, 2026 03:00:50.389AM UTC]  PlayerUntagEvent was triggered on SquizoCriz002 with reason SELF_DEATH and expire set to true.
+[April 21, 2026 03:00:50.393AM UTC]  PlayerPunishEvent was triggered on Akukis with reason ENEMY_DEATH and cancelled true.
+[April 21, 2026 03:00:50.394AM UTC]  PlayerUntagEvent was triggered on Akukis with reason ENEMY_DEATH and expire set to true.
+[April 21, 2026 03:01:00.649AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 03:01:02.050AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 03:01:07.899AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 03:01:08.953AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.
+[April 21, 2026 03:01:10.848AM UTC]  EntityDamageByEntityEvent was triggered by damaged GLOW_SQUID Glow Squid, damager AXOLOTL Axolotl and cancelled false.

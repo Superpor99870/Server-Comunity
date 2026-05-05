@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.34.41.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777083791064
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777231579588
+  login: 1777231323303
+  kits:
+    tools: 1777082668577
+money: '500'
+last-account-name: Tizii_pojaw
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1501.4763667878567
+  y: 62.9375
+  z: 611.6262013262692
+  yaw: 74.8337631225586
+  pitch: 38.22015380859375
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -2254.306040659195
+  y: 63.0
+  z: 1378.699999988079
+  yaw: -15.6829833984375
+  pitch: 46.35007858276367
+homes:
+  home:
+    world: 6073ab22-94ef-47fc-a152-16589d86efaa
+    world-name: world
+    x: -2245.087878532266
+    y: 64.0
+    z: 1375.1843094914066
+    yaw: 65.61627197265625
+    pitch: 27.90001678466797

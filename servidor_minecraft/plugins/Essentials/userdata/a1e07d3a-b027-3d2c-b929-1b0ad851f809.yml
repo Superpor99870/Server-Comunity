@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.234.247.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777084788814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777087063835
+  login: 1777085546422
+  kits:
+    tools: 1777083757043
+money: '500'
+last-account-name: TucacaFlotaX3
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1019.4725314058115
+  y: 56.0
+  z: 18.515604657957965
+  yaw: 91.8297119140625
+  pitch: 52.05002212524414
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.495858354916
+  y: 61.0
+  z: 590.4790379533105
+  yaw: 46.03374481201172
+  pitch: 6.8701581954956055

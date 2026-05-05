@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.255.148.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777146559266
+  login: 1777146515437
+money: '500'
+last-account-name: Joaquin_SRG
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -409.5
+  y: 59.0
+  z: -88.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.8841120440784
+  y: 64.0
+  z: 572.9557107669774
+  yaw: 49.033775329589844
+  pitch: 40.320159912109375

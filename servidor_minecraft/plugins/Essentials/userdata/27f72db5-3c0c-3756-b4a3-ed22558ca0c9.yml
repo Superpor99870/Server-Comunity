@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.186.38.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1776633081176
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776633901681
+  login: 1776633009742
+money: '500'
+last-account-name: mijael192
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -396.30000001192093
+  y: 71.0
+  z: -96.43963664872919
+  yaw: 118.91616821289062
+  pitch: 19.208391189575195
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -383.30000001192093
+  y: 20.0
+  z: 9.955815709113084
+  yaw: 172.0235595703125
+  pitch: 19.353771209716797

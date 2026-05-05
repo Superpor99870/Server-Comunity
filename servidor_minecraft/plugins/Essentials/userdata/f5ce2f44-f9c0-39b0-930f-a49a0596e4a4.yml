@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.227.60.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777684793046
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777684801549
+  login: 1777684014136
+money: '500'
+last-account-name: LENGEND
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -2216.300000011921
+  y: -6.0
+  z: 355.30000001192093
+  yaw: 97.83368682861328
+  pitch: 13.5000638961792
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.495858354916
+  y: 57.0
+  z: 590.4790379533105
+  yaw: 70.03373718261719
+  pitch: 39.570159912109375

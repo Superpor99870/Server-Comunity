@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:large_fern": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2267,
+      "minecraft:walk_one_cm": 1426,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 80,
+      "minecraft:play_time": 2267,
+      "minecraft:damage_dealt": 40,
+      "minecraft:jump": 95,
+      "minecraft:time_since_death": 2267,
+      "minecraft:sprint_one_cm": 5942,
+      "minecraft:fall_one_cm": 4015,
+      "minecraft:total_world_time": 2267,
+      "minecraft:fly_one_cm": 21562,
+      "minecraft:sneak_time": 3
+    }
+  },
+  "DataVersion": 4671
+}

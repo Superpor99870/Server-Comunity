@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone_axe": 14,
+      "minecraft:stone_sword": 32
+    },
+    "minecraft:killed": {
+      "minecraft:villager": 2,
+      "minecraft:spider": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 550,
+      "minecraft:walk_one_cm": 8097,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 1030,
+      "minecraft:damage_dealt": 2199,
+      "minecraft:play_time": 4035,
+      "minecraft:jump": 130,
+      "minecraft:time_since_death": 0,
+      "minecraft:sprint_one_cm": 14585,
+      "minecraft:fall_one_cm": 2362,
+      "minecraft:total_world_time": 4035,
+      "minecraft:fly_one_cm": 33111,
+      "minecraft:crouch_one_cm": 207,
+      "minecraft:sneak_time": 24,
+      "minecraft:deaths": 4,
+      "minecraft:player_kills": 5
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1,
+      "minecraft:string": 1,
+      "minecraft:stone_pickaxe": 2,
+      "minecraft:stone_sword": 3,
+      "minecraft:poppy": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:dandelion": 2,
+      "minecraft:stone_shovel": 2
+    }
+  },
+  "DataVersion": 4671
+}

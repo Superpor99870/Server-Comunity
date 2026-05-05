@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.173.145.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777683613496
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777683629974
+  login: 1777683384052
+money: '500'
+last-account-name: pedrito360
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1553.2041916439473
+  y: 56.8741432049946
+  z: 1630.6648466030165
+  yaw: -92.12451934814453
+  pitch: -14.550085067749023
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.495858354916
+  y: 57.0
+  z: 590.4790379533105
+  yaw: 78.43374633789062
+  pitch: 14.220161437988281

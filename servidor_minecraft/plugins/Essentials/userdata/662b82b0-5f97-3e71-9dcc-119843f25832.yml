@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.178.117.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777687552578
+  login: 1777687150242
+money: '500'
+last-account-name: soycubofan12
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1609.1584630643936
+  y: 74.89658640224444
+  z: 658.6662591627297
+  yaw: 60.41200637817383
+  pitch: 61.40803146362305
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1599.9966672113044
+  y: 153.91999998688698
+  z: 678.0976569027936
+  yaw: -46.62737274169922
+  pitch: 89.20542907714844

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.23.201.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777083334530
+  login: 1777083132804
+money: '500'
+last-account-name: BRYAN908
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1472.0781387192228
+  y: 64.0
+  z: 583.0014970941177
+  yaw: 37.6336784362793
+  pitch: 23.820175170898438
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1472.0781387192228
+  y: 64.0
+  z: 583.0014970941177
+  yaw: 37.6336784362793
+  pitch: 23.820175170898438

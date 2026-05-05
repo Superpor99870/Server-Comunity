@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.46.205.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777154780496
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777142758223
+  login: 1777143147049
+  kits:
+    tools: 1777140433420
+money: '500'
+last-account-name: Elmejortilin
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: 12204.5
+  y: 66.0
+  z: 41412.5
+  yaw: 11.023746490478516
+  pitch: -17.685853958129883
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -2213.300000011921
+  y: 61.0
+  z: 302.5421580312555
+  yaw: 106.49911499023438
+  pitch: -14.239327430725098
+homes:
+  home:
+    world: 6073ab22-94ef-47fc-a152-16589d86efaa
+    world-name: world
+    x: 12183.599188411816
+    y: 72.0
+    z: 41425.228777166645
+    yaw: -132.41165161132812
+    pitch: 25.273109436035156

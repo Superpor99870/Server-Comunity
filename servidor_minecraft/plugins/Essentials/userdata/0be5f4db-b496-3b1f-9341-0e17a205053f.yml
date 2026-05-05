@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.11.96.160
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777687864096
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777688018290
+  login: 1777687955850
+money: '500'
+last-account-name: Marlowww
+lastlocation:
+  world: 24cb5af1-38be-4de6-883d-37b856e77b4e
+  world-name: world_the_end
+  x: 18.877150019050784
+  y: 61.0
+  z: 36.992062598529444
+  yaw: 32.144561767578125
+  pitch: 48.49065017700195
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.495858354916
+  y: 57.0
+  z: 590.4790379533105
+  yaw: 77.94491577148438
+  pitch: 13.486918449401855

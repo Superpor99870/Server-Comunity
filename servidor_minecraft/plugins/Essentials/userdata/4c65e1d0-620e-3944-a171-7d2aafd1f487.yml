@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.79.164.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776632422852
+  login: 1776632214525
+money: '500'
+last-account-name: xTrixMC
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -398.72508295454054
+  y: 63.0
+  z: -49.965584772564384
+  yaw: 151.13156127929688
+  pitch: 14.121184349060059
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -394.3206660088021
+  y: 64.86294180505814
+  z: -50.385522513488304
+  yaw: 16.816650390625
+  pitch: 29.885900497436523

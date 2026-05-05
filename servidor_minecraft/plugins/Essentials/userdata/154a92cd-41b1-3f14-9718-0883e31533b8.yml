@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.50.97.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777086401264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777087129490
+  login: 1777085821625
+  kits:
+    tools: 1777086551210
+money: '500'
+last-account-name: cuycito
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1462.5360247683548
+  y: 62.9375
+  z: 596.8091911339908
+  yaw: 5.3837103843688965
+  pitch: 1.6201633214950562
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.495858354916
+  y: 61.0
+  z: 590.4790379533105
+  yaw: 99.4337387084961
+  pitch: -10.379841804504395

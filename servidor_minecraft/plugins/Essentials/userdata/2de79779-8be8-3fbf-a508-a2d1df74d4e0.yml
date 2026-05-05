@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.57.49.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1776999403222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777002715530
+  login: 1776998756043
+money: '500'
+last-account-name: aqhez_
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1396.22958793059
+  y: 64.79673560066871
+  z: 536.491712875115
+  yaw: -45.208343505859375
+  pitch: 42.34960174560547
+homes:
+  home:
+    world: 6073ab22-94ef-47fc-a152-16589d86efaa
+    world-name: world
+    x: -1914.5211602554364
+    y: 19.0
+    z: 1161.8194501860114
+    yaw: 72.70380401611328
+    pitch: 34.15724182128906
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1914.3234674451326
+  y: 19.0
+  z: 1161.3839713776135
+  yaw: -9.433844566345215
+  pitch: 16.69415283203125

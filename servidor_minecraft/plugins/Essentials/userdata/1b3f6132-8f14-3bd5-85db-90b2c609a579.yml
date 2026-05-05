@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.45.124.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777686564066
+  login: 1777686481339
+  kits:
+    tools: 1777686552685
+money: '500'
+last-account-name: Angelitosss_
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1453.6599765418766
+  y: 59.0
+  z: 589.7195937886266
+  yaw: -94.50769805908203
+  pitch: 28.467029571533203
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1443.539861395048
+  y: 62.9375
+  z: 603.1452299099573
+  yaw: 155.99952697753906
+  pitch: 21.739416122436523

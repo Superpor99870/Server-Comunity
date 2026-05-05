@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:spruce_planks": 16
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 23,
+      "minecraft:coarse_dirt": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:spruce_sapling": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_log": 22,
+      "minecraft:spruce_sapling": 1,
+      "minecraft:coarse_dirt": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 351,
+      "minecraft:walk_one_cm": 4254,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 1021,
+      "minecraft:damage_taken": 1598,
+      "minecraft:play_time": 4524,
+      "minecraft:jump": 123,
+      "minecraft:time_since_death": 303,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 11977,
+      "minecraft:open_chest": 9,
+      "minecraft:fall_one_cm": 8536,
+      "minecraft:swim_one_cm": 3938,
+      "minecraft:total_world_time": 4524,
+      "minecraft:fly_one_cm": 26233,
+      "minecraft:walk_on_water_one_cm": 1350,
+      "minecraft:sneak_time": 7,
+      "minecraft:deaths": 3
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_log": 23,
+      "minecraft:large_fern": 1,
+      "minecraft:coarse_dirt": 1
+    }
+  },
+  "DataVersion": 4671
+}

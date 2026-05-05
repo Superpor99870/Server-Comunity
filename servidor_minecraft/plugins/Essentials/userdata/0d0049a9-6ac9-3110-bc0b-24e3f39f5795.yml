@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.152.218.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777140311022
+  login: 1777139782238
+money: '500'
+last-account-name: xsoap__
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -393.5
+  y: 57.0
+  z: -89.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1541.25165281538
+  y: 65.0
+  z: -50.93237891054385
+  yaw: -18.62646484375
+  pitch: 33.81317138671875

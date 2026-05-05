@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.34.147.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1777144389346
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777144993562
+  login: 1777143175799
+  kits:
+    tools: 1777143329882
+money: '500'
+last-account-name: Sleep18zzz
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1522.868988553404
+  y: 96.25791907591439
+  z: 944.0048591386457
+  yaw: 127.2593994140625
+  pitch: -0.5340390205383301
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1467.3988451118673
+  y: 66.0
+  z: 585.3624567098165
+  yaw: 87.60563659667969
+  pitch: 3.675554037094116

@@ -1,0 +1,18 @@
+[2026/05/02 21:38:56 INFO]:           __             _       
+[2026/05/02 21:38:56 INFO]:   _ __   / /  ___   __ _(_)_ __  
+[2026/05/02 21:38:56 INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[2026/05/02 21:38:56 INFO]:  | | | / /__| (_) | (_| | | | | |
+[2026/05/02 21:38:56 INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[2026/05/02 21:38:56 INFO]:                   |___/            
+[2026/05/02 21:38:56 INFO]:  By: www.nickuc.com - V 2.0.16
+[2026/05/02 21:38:56 INFO]:  
+[2026/05/02 21:38:57 DEBUG]: Loading the messages_es.yml message file...
+[2026/05/02 21:38:57 DEBUG]: Messages were loaded in 85 ms (single file).
+[2026/05/02 21:38:57 WARN]: The "unsupported-settings.perform-username-validation" option is enabled in config/paper-global.yml
+[2026/05/02 21:38:57 WARN]: The username-appender feature may fail with an invalid nickname kick message.
+[2026/05/02 21:38:57 DEBUG]: Settings were loaded in 167 ms.
+[2026/05/02 21:38:57 DEBUG]: Loading database...
+[2026/05/02 21:38:57 DEBUG]: Starting logger filter...
+[2026/05/02 21:47:41 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'emi4553', `unique_id` = cd1c085284fc30328ac6d3140c8232a7,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$EfgUo84vBYqr2WSjMvXBcw$AF6r8G98UhBOXrFjmlkilrQls0HdnkZ50D37Fr4kSN4', `last_ip` = '127.171.175.223', `creation_date` = 2026-04-25 18:20:29.701, `last_seen` = 2026-05-02 21:47:41.512, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 61" (applied to [last_ip, last_seen, settings] columns)
+[2026/05/02 21:47:41 INFO]: The user emi4553 has successfully logged in.
+[2026/05/02 21:53:57 INFO]: Successful plugin core shutdown (took 0.00s)

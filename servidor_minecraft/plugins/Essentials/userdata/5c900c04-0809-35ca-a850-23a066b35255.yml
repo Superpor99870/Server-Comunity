@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.37.103.149
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777140388076
+  login: 1777140125653
+money: '500'
+last-account-name: znx0_0
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1446.9307522536847
+  y: 62.024424088213685
+  z: 585.3000000119209
+  yaw: 142.75514221191406
+  pitch: -21.915136337280273
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1431.52453319685
+  y: 62.14149146769863
+  z: 602.1078277845355
+  yaw: -111.68592071533203
+  pitch: 33.91291046142578

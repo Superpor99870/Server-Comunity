@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:yellow_bed": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1,
+      "minecraft:walk_one_cm": 1407,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 130,
+      "minecraft:play_time": 1324,
+      "minecraft:damage_dealt": 375,
+      "minecraft:jump": 64,
+      "minecraft:time_since_death": 0,
+      "minecraft:sprint_one_cm": 6505,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 1708,
+      "minecraft:total_world_time": 1324,
+      "minecraft:fly_one_cm": 27003,
+      "minecraft:deaths": 1,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:yellow_bed": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_sword": 9,
+      "minecraft:yellow_bed": 1
+    }
+  },
+  "DataVersion": 4671
+}

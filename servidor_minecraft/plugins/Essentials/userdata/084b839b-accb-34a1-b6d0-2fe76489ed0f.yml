@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.178.117.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1777687738678
+  login: 1777687609584
+money: '500'
+last-account-name: tupenexdasdasdas
+lastlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1379.2843009452945
+  y: 67.0
+  z: 660.7753795195679
+  yaw: 176.21441650390625
+  pitch: 3.5503907203674316
+logoutlocation:
+  world: 6073ab22-94ef-47fc-a152-16589d86efaa
+  world-name: world
+  x: -1379.2843009452945
+  y: 67.0
+  z: 660.7753795195679
+  yaw: 176.21441650390625
+  pitch: 3.5503907203674316
